@@ -13,6 +13,12 @@ https://yogendrasinh-jadeja.github.io/TextUtils/
 Html5, Css3, Bootstrap5, Javascript, React.js.
 
 
+## Features
+
+- Light/dark mode toggle
+
+
+
 
 ## Screenshots
 
