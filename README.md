@@ -16,7 +16,18 @@ Html5, Css3, Bootstrap5, Javascript, React.js.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=https://m.cricbuzz.com/a/img/v1/192x192/i1/c244980/virat-kohli.jpg)
+home page showing number of words and characters in text
+![1](https://user-images.githubusercontent.com/121381292/211283618-3a8bf446-e6da-4622-8363-90b38ab51c0e.png)
+
+about page
+![2](https://user-images.githubusercontent.com/121381292/211283646-ed24f857-3eff-430a-b5b4-418d53e2f4bc.png)
+
+convert text to upper case
+![3](https://user-images.githubusercontent.com/121381292/211283675-045e9dda-3b3b-4051-8032-0522fa322abb.png)
+
+convert text to upper case
+![4](https://user-images.githubusercontent.com/121381292/211283693-3098793f-b30d-497d-86ed-32eb43552b69.png)
+
 
 
 ## Run Locally
