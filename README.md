@@ -25,7 +25,7 @@ about page
 convert text to upper case
 ![3](https://user-images.githubusercontent.com/121381292/211283675-045e9dda-3b3b-4051-8032-0522fa322abb.png)
 
-convert text to upper case
+convert text to Lower case
 ![4](https://user-images.githubusercontent.com/121381292/211283693-3098793f-b30d-497d-86ed-32eb43552b69.png)
 
 
