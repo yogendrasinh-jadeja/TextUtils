@@ -36,26 +36,33 @@ convert text to Lower case
 
 
 
+
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/yogendrasinh-jadeja/TextUtils
+    git clone https://github.com/yogendrasinh-jadeja/TextUtils
 ```
 
 Go to the project directory
 
 ```bash
-  cd TextUtils
+    cd TextUtils
 ```
 
+Install dependencies
+
+```bash
+  npm install
+```
 
 Start the server
 
 ```bash
-  npm start
+  npm run start
 ```
+
 
 
 ## Deployment
